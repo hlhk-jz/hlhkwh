@@ -18,6 +18,7 @@
 
     <modules>
         <module>hlhkwh-kibanaes</module>
+        <module>hlhkwh-emqx</module>
     </modules>
 
     <properties>
